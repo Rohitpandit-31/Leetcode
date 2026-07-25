@@ -10,5 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohitpandit-31/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->

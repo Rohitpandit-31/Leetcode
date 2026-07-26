@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohitpandit-31/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohitpandit-31/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohitpandit-31/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohitpandit-31/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohitpandit-31/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |

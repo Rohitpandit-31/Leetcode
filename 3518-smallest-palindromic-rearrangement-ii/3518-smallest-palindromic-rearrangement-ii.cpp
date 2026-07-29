@@ -1,8 +1,23 @@
 class Solution {
 public:
-    const long long LIMIT = 1000001LL;
-    vector<vector<long long>> C;
+    static const long long LIMIT = 1000001LL;
 
+    // Computes C(n, r), capped at LIMIT.
+    long long comb(int n, int r) {
+        if (r < 0 || r > n) return 0;
+        r = min(r, n - r);
+
+        long long ans = 1;
+
+        for (int i = 1; i <= r; i++) {
+            ans = ans * (n - r + i) / i;
+            if (ans > LIMIT) return LIMIT;
+        }
+
+        return ans;
+    }
+
+    // Counts distinct permutations of the multiset represented by freq.
     long long countWays(vector<int>& freq) {
         int total = 0;
         for (int x : freq) total += x;
@@ -13,7 +28,7 @@ public:
         for (int f : freq) {
             if (f == 0) continue;
 
-            ways *= C[rem][f];
+            ways *= comb(rem, f);
             if (ways > LIMIT) ways = LIMIT;
 
             rem -= f;
@@ -30,26 +45,18 @@ public:
             freq[c - 'a']++;
 
         vector<int> half(26, 0);
+
         string middle = "";
+
         int halfLen = 0;
 
         for (int i = 0; i < 26; i++) {
+
             if (freq[i] % 2)
                 middle.push_back(char('a' + i));
 
             half[i] = freq[i] / 2;
             halfLen += half[i];
-        }
-
-        // Pascal's Triangle for nCr
-        C.assign(halfLen + 1, vector<long long>(halfLen + 1, 0));
-
-        for (int i = 0; i <= halfLen; i++) {
-            C[i][0] = C[i][i] = 1;
-
-            for (int j = 1; j < i; j++) {
-                C[i][j] = min(LIMIT, C[i - 1][j - 1] + C[i - 1][j]);
-            }
         }
 
         if (countWays(half) < k)

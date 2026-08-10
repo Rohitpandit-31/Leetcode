@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohitpandit-31/Leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohitpandit-31/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

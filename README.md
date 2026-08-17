@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rohitpandit-31/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitpandit-31/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitpandit-31/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rohitpandit-31/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohitpandit-31/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Rohitpandit-31/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohitpandit-31/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/1140-stone-game-ii) |

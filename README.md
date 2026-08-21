@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohitpandit-31/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitpandit-31/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitpandit-31/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohitpandit-31/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitpandit-31/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

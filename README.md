@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rohitpandit-31/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rohitpandit-31/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Rohitpandit-31/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rohitpandit-31/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohitpandit-31/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohitpandit-31/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitpandit-31/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/Rohitpandit-31/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rohitpandit-31/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohitpandit-31/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Rohitpandit-31/Leetcode/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/Rohitpandit-31/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Rohitpandit-31/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rohitpandit-31/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohitpandit-31/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Rohitpandit-31/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rohitpandit-31/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rohitpandit-31/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Rohitpandit-31/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Rohitpandit-31/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |

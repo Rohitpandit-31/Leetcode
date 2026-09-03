@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohitpandit-31/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rohitpandit-31/Leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/Rohitpandit-31/Leetcode/tree/master/0035-search-insert-position) |
 | [0134-gas-station](https://github.com/Rohitpandit-31/Leetcode/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Rohitpandit-31/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Rohitpandit-31/Leetcode/tree/master/0486-predict-the-winner) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rohitpandit-31/Leetcode/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rohitpandit-31/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Linked List
 |  |

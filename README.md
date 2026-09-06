@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohitpandit-31/Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Rohitpandit-31/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rohitpandit-31/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitpandit-31/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohitpandit-31/Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Rohitpandit-31/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Rohitpandit-31/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Rohitpandit-31/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohitpandit-31/Leetcode/tree/master/0877-stone-game) |
